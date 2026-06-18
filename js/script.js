@@ -16,7 +16,7 @@ const cajaPantallaRuleta = document.querySelector('.pantalla-ruleta');
 
 // Función que va a buscar el JSON e inicia la aplicación
 function cargarJuegosJSON() {
-    fetch('/juegos.json')
+    fetch('juegos.json')
         .then(respuesta => respuesta.json())
         .then(datos => {
             listaDeJuegos = datos; // Guardamos los datos en nuestra variable global
