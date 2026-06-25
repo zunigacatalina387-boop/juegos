@@ -498,6 +498,26 @@
     "duracion": "30-60",
     "edadMinima": 12,
     "imagen": "img/cranium.jpg"
+    },
+    {
+    "id": 51,
+    "nombre": "Bachillerato Tutti Frutti-Stop",
+    "categoria": "tablero",
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "duracion": "1,5",
+    "edadMinima": 8,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_629399-MLA98119459645_112025-O.webp"
+    },
+    {
+    "id": 52,
+    "nombre": "Ludo",
+    "categoria": "tablero",
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "duracion": "10-20",
+    "edadMinima": 7,
+    "imagen": "https://img.kwcdn.com/product/fancy/5127245e-c69b-489c-88c5-13a928c054a1.jpg?imageView2/2/w/800/q/70/format/avif"
     }
   ]
   
